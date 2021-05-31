@@ -1,0 +1,19 @@
+*{
+	scroll-behavior: smooth;
+}
+
+html{
+	background-color: gray;
+}
+
+.restable
+{
+	display: table;
+	background-color: white;
+	/*position: relative;*/
+	width: 85%;
+	height: 75vh;
+	top: 100px;
+	left: 100px;
+
+}
